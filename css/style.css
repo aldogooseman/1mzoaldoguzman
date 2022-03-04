@@ -14,47 +14,5 @@ body {
     box-shadow: 2px 2px 35px 0px rgba(148, 148, 148, 0.2);
 }
 
-.carousel-inner {
-    color: #fff
-}
 .navbar-expand{-sm|-md|-lg|-xl|-xxl}
 
-.card {
-    margin: 0 auto; 
-    margin-bottom: 10px; 
-}
-
-.img-fluid{
-    max-width: 100%
-}
-
-.carousel-item {
-    height: 75vh;
-  }
-  
-  .navbar {
-    height: 6rem;
-    display:flex
-    align-items: center
-    justify-content: center
-  }
-
-  .nav__logo {
-    display:flex
-    align-items: center
-    justify-content: center
-  }
-
-  .botoncolor:hover {
-      background-color: crimson;
-  }
-  .footer {
-    padding-left: 15px;  
-    background-color: rgb(143, 143, 143);
-    color: #fff
-      
-  }
-
-  .form {
-      display: flex;
-  }

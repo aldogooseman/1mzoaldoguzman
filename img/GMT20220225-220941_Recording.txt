@@ -1,0 +1,27 @@
+00:24:48	Cinthia Scussolin:	Sip
+00:24:56	Valeria Flores:	si
+00:25:28	Rossi Mariano:	dale
+00:25:35	Rossi Mariano:	golpeadores pagados jaja
+00:25:45	Angel Ortiz:	jajajaja
+00:27:09	Valeria Flores:	dalee
+00:28:00	Cinthia Scussolin:	Mi nena esta viendo videos al lado mio, x eso no abro el mic
+00:30:10	Valeria Flores:	si se usa ese plugin se tiene q bajar también node es lo mismo? se complementan o son cosas distintas?
+00:35:34	Valeria Flores:	antes de todo esto ya habias bajado node en tu compu?
+00:35:50	Rossi Mariano:	puse textual lo de la instalación y me indica esto:$ npm install -g sassadded 17 packages, and audited 18 packages in 5s2 packages are looking for funding  run `npm fund` for detailsfound 0 vulnerabilities
+00:37:56	Cinthia Scussolin:	bueno profe gracias
+00:38:49	Rossi Mariano:	y ahora debería correr el watch
+00:39:15	Rossi Mariano:	ah genial
+00:39:20	Rossi Mariano:	ahí vi que se compilo
+00:40:05	Rossi Mariano:	se instala en la carpeta rooaming de tu usuario
+00:43:12	Valeria Flores:	regalanos tus notas :)
+00:43:43	lucas cejas:	buenas
+00:43:44	Valeria Flores:	es genial para tener en cuanta cuales son los pasos
+00:58:21	Rossi Mariano:	Usar Bootstrap + SASS trae problemas no?
+01:09:15	Cinthia Scussolin:	es genial...super ordenado
+01:10:12	Rossi Mariano:	ok
+01:13:10	Valeria Flores:	luego nos compartis el código en el slack o carpeta
+01:13:10	Luis Cardozo:	la pseudoclase siempre tiene que ir seguido al que estamos modificando o no es necesario?
+01:13:18	Rossi Mariano:	del label
+01:13:33	Luis Cardozo:	ah listo, ahí quedó respondida mi pregunta
+01:16:33	Rossi Mariano:	que extencion usas que te detecta la identacion ?
+01:17:16	Rossi Mariano:	grac

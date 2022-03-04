@@ -1,0 +1,549 @@
+01:03:01	Nicolas Ferro:	no lo instalamos la clase pasada?
+01:03:22	[Tutor] Damian Tuppo:	Sisi Nico! Pero por las dudas. Porque hoy lo vamos a usar a pleno
+01:03:49	Matias Mamani:	solo debo instalar lo de node no?, tipo la app
+01:04:09	[Tutor] Damian Tuppo:	No se asusten con Sass. Tengan un poco de paciencia. Que se aprende con practica
+01:07:39	nicolas campeis:	cuando abro node me abre una consola esta bien?
+01:07:40	Ignacio Oreiro:	Como era el comando para que te diga si lo tenias bien instalado?
+01:07:52	Angel Zacarias:	--version
+01:08:22	[ Profesor ] Jonathan Cruz:	node --version
+01:09:05	[Tutor] Damian Tuppo:	saber googlear
+01:09:14	[Tutor] Damian Tuppo:	sin duda
+01:09:31	[tutora]Veronica Bravo:	muy buen porcentaje!!!
+01:09:46	Matias Mamani:	pero para descargar, es descargar de la pag oficial y ya no?
+01:09:55	Manuel Betanzos:	En Mac es exactamente igual que Windows
+01:10:05	Manuel Betanzos:	Se descarga el archivo y se instala como cualquier app
+01:10:39	[Tutor] Damian Tuppo:	Importante el Path viene habilitado por defecto igual
+01:10:56	Rossi Mariano:	si
+01:10:56	[tutora]Veronica Bravo:	se ve bien
+01:10:59	[Tutor] Damian Tuppo:	se ve perfecto!
+01:11:17	[ Profesor ] Jonathan Cruz:	https://nodejs.org/es/download/
+01:14:41	César Aular:	transforma código propio a código css
+01:14:52	[Tutor] Damian Tuppo:	Asi es Cesar!
+01:14:59	César Aular:	que genial jeje
+01:15:12	Emanuel Palacio:	yo tengo como 400 líneas jaja
+01:15:49	[Tutor] Damian Tuppo:	Muy importante que SIEMPRE lo que siguen enlazando en su html es el css. (ya sea que usen o no Sass) porque los navegadores no leen Sass, solo leen css
+01:16:19	[Tutor] Damian Tuppo:	Humilde SASS
+01:19:29	nicolas campeis:	si uso sass.  uso también  boostrap?
+01:19:38	[Tutor] Damian Tuppo:	No necesariamente
+01:19:44	nicolas campeis:	ok
+01:19:50	[Tutor] Damian Tuppo:	Podes usar Sass sin usar bootstrap
+01:19:54	[Tutor] Damian Tuppo:	o viceversa
+01:20:07	[Tutor] Damian Tuppo:	Lo que si, Bootstrap internamente usa sass
+01:20:47	[Tutor] Damian Tuppo:	Piensen que Bootstrap tiene mas de 11000 líneas de código
+01:20:50	Facundo Casez:	no
+01:20:54	María Victoria Rial Camarero:	no
+01:21:08	Rossi Mariano:	no, noto diferencia
+01:21:12	Cata Olivar:	nono
+01:21:13	Cinthia Scussolin:	Nop
+01:21:20	nicolas campeis:	te quedas pensando si cambia en algo xD
+01:21:21	nicolas campeis:	ajajaj
+01:22:05	nicolas campeis:	no tiene la clase?
+01:22:08	Cata Olivar:	el corchete
+01:22:12	Yovana:	tiene un padre e hijo
+01:22:12	Matias Mamani:	que es como escalado pero dentro de un mismo bloque
+01:22:13	Guillermo Giamona:	Tiene el hijo adentro del padre
+01:22:13	María Victoria Rial Camarero:	que una etiqueta esta dentro de otra ?
+01:22:14	Facundo Casez:	p
+01:22:15	Luis Cardozo:	un elemento adentro de otro
+01:22:15	Fernando Aguirre:	anexa el hijo
+01:22:17	Juan Gonzalez Lagos:	todo en un mismo lugar
+01:22:17	Ignacio Davicino:	puede cambiar los elementos dentro del padre
+01:22:20	Nicolas marquez:	el p
+01:22:22	Emanuel Palacio:	estas anidando las etiquetas
+01:22:52	Matias Mamani:	visualmente es mas sencillo de observar
+01:23:02	[Tutor] Damian Tuppo:	La anidación es muy cómoda de ver
+01:23:26	Emanuel Palacio:	se bueno porque se ve mas claro todavía quien es el padre y cual el hijo
+01:23:39	[tutora]Veronica Bravo:	Exacto chicos es mas claro y prolijo
+01:23:58	[TUTORA] Julieta Romano:	Exactamente, lo hace mas especifico
+01:24:57	Gonzalo Ramos Gaspar:	como sabemos si tenemos npm
+01:25:04	Cata Olivar:	eesoo
+01:25:11	Cata Olivar:	como se sane?
+01:25:19	Cata Olivar:	*sabe
+01:25:38	Matias Mamani:	no pude instalar node aksjdas
+01:26:16	[Tutor] Damian Tuppo:	Te tiró algún error Mati?
+01:26:20	Matias Mamani:	sip
+01:26:26	Matias Mamani:	osea lo instalé pero al parecer algo falló
+01:26:52	[Tutor] Damian Tuppo:	Lo instalaste ahora?
+01:26:59	Matias Mamani:	sip
+01:27:13	[tutora]Veronica Bravo:	enter hasta que termine de preguntar!
+01:27:24	[Tutor] Damian Tuppo:	es probable que tengas que reiniciar el equipo
+01:27:40	Ignacio Casco:	podemos hacerlo de vuelta?
+01:28:05	Matias Mamani:	entiendo, intentaré hacerlo al termino de la clase
+01:28:41	Ignacio Casco:	😎
+01:28:58	Angel Zacarias:	npm init -y y omite todos los pasos y los deja por defecto
+01:29:08	nicolas campeis:	me salio ítems de colores después del "yes"
+01:29:22	Ignacio Davicino:	si
+01:29:22	Facundo Viviani Ballini:	si
+01:29:27	Diego R.:	No profe me quede en la iniciaciòn del npm
+01:29:28	Cata Olivar:	si
+01:29:31	Nicolas Ferro:	sisi
+01:29:40	[Tutor] Lucas Esterch:	JavaScript Object Notation Es el significado de JSON
+01:29:50	[Tutor] Damian Tuppo:	Tranqui Mati. Anotate los pasos que va haciendo Jona, para después intalarlo tranquilo. Y si te sale algún error después cuando lo hagas, lo vemos por slack
+01:29:53	Diego R.:	Luego de verificar que tengo npm que debo hacer?
+01:29:55	[Tutor] Damian Tuppo:	O mañana en el after
+01:30:15	Diego R.:	Ósea al crear la carpeta, que comando ejecuto?
+01:30:52	Diego R.:	okey
+01:31:09	[Tutor] Damian Tuppo:	Si o si tienen que estar ubicados en el root del proyecto!
+01:31:57	[tutora]Veronica Bravo:	Fijense muy bien al escribir que tenga los mismos espacios y guiones para que no le tire error
+01:32:14	Rossi Mariano:	esto en cada proyecto?
+01:32:46	[ Profesor ] Jonathan Cruz:	npm install -D node-sass nodemon
+01:32:49	Ignacio Oreiro:	arranco una barra de carga con toda jajajajajajaa
+01:32:55	Rossi Mariano:	oka
+01:33:07	Facundo Viviani Ballini:	me tiro error
+01:33:16	Facundo Viviani Ballini:	npm ERR! code E404npm ERR! 404 Not Found - GET https://registry.npmjs.org/nodemon. - Not found
+01:34:17	[Tutor] Damian Tuppo:	Tiene como 10000 archivos, mas alla del peso es re molesta en ese sentido
+01:34:21	[tutora]Veronica Bravo:	Facu fíjate bien si escribiste bien el comando, sino copia el que paso el profe
+01:34:49	Facundo Viviani Ballini:	sisi lo puse tal cual
+01:35:10	Valeria Flores:	estas carpetas se hacen en todos los proyectos?
+01:35:16	Gonzalo Ramos Gaspar:	dentro de scss creamos el gitignore? 
+01:35:26	[tutora]Veronica Bravo:	Si Vale
+01:35:41	Facundo Viviani Ballini:	listo
+01:35:43	Facundo Viviani Ballini:	ahí anduvo
+01:35:46	[tutora]Veronica Bravo:	.gitignore en la raíz de tu proyecto
+01:36:15	Maria Celeste Tapia:	disculpe profe no vi como creo la carpeta gitignore
+01:36:25	Ignacio Oreiro:	/node_modules
+01:36:28	Rossi Mariano:	Maria es un archivp
+01:36:39	[tutora]Veronica Bravo:	el profe lo puso dentro de scss, va igual
+01:36:48	nicolas campeis:	con o sin slash ?
+01:36:50	[Tutor] Damian Tuppo:	Ese archivo simpre creenlo desde el vsc
+01:37:09	[Tutor] Damian Tuppo:	Porque si no win le puede poner una extensión fruta
+01:37:23	[Tutor] Damian Tuppo:	Creo que anda de las dos formas Nico
+01:37:27	Maria Celeste Tapia:	archivo, perdon, muchas graciass
+01:37:46	[Tutor] Damian Tuppo:	por las dudas ponelo con /
+01:37:51	nicolas campeis:	ok
+01:38:09	Angel Zacarias:	copien su css  y guarden en otro lado por las dudas
+01:38:12	[Tutor] Damian Tuppo:	Porque recuerdo que siempre lo hago asi y funciona. Pero nunca está de mas hacer la prueba
+01:38:12	[ Profesor ] Jonathan Cruz:	"build-css": "node-sass --include-path scss scss/style.scss css/main.css",    "watch-css": "nodemon -e scss -x \"npm run build-css\""
+01:38:19	[Tutor] Damian Tuppo:	#angel
+01:38:31	[Tutor] Damian Tuppo:	Eso es imprescindible
+01:38:35	Gonzalo Ramos Gaspar:	ya esta angel tarde bue jajaja 
+01:38:37	[Tutor] Damian Tuppo:	YA BACKUP
+01:39:51	Ignacio Davicino:	, enter y abajo el código?
+01:39:55	Gonzalo Ramos Gaspar:	me aparece un error 
+01:40:07	Rossi Mariano:	profe si puede haga un git push , asi lo bajamos y lo vamos siguiendo
+01:40:16	Ignacio Oreiro:	tocar estas cosas sin un backup es lava jajajajaja
+01:40:17	Gonzalo Ramos Gaspar:	el build-css subrayado en rojo
+01:40:21	[Tutor] Damian Tuppo:	Fijate borrar las comillas y escribirlas de nuevo Gonza!
+01:40:42	[Tutor] Damian Tuppo:	También fíjate que antes de agregar las dos líneas, tenes que poner una coma
+01:40:48	[Tutor] Damian Tuppo:	a la linea anterior
+01:40:59	(Tutora DW) Carolina Amoia:	fijense q su archivos css se llame como lo tienen ustedes q puede tener otro nombre diferente al del profe
+01:41:03	Diego R.:	Profe un repaso breve de los pasos porfa.. vas mas rápido que mi computador jajaj
+01:41:15	Gonzalo Ramos Gaspar:	listo 
+01:41:17	Gonzalo Ramos Gaspar:	gracias 
+01:41:21	Ignacio Oreiro:	la m
+01:42:24	Ignacio Oreiro:	si
+01:42:29	Cata Olivar:	sisi
+01:42:30	nicolas campeis:	no
+01:42:33	Nicolas marquez:	si
+01:42:35	eduardo senguer:	Ni cerca
+01:42:36	Ignacio Casco:	de vuelta xfa
+01:42:43	Rossi Mariano:	yo ,no
+01:42:46	Nicolas Ferro:	como descargas la carpeta de GitHub?
+01:42:57	Rossi Mariano:	https://github.com/JonathanEmanuel/dw-c24510
+01:43:05	Nicolas Ferro:	gracias
+01:43:53	[tutora]Veronica Bravo:	Mejor si copian lo que paso el profe en las filminias también están las rutas pero tiene otras comillas y solia tener un espacio extra, asique no se confíen de ahi
+01:44:23	Gonzalo Ramos Gaspar:	Si me agrego node_modules como lo sacaria? 
+01:44:27	Gonzalo Ramos Gaspar:	o no hay forma ? 
+01:44:33	[Tutor] Damian Tuppo:	Si, a las filminas ténganle cuidado. También había algo con las comillas
+01:44:35	nicolas campeis:	los pasos no están completos
+01:44:42	(Tutora DW) Carolina Amoia:	si mejor copiar porque una mínima coma o letra ya le da error
+01:44:54	[Tutor] Damian Tuppo:	Como que las tomaba distintas a lo habitual
+01:45:05	[tutora]Veronica Bravo:	Gonza el node_modules lo omitis con el gitignore para no subirlo a tu repo remoto
+01:45:32	Gonzalo Ramos Gaspar:	Si pero puse el git ignore y no se ignoro 
+01:45:38	[Tutor] Damian Tuppo:	se puede hacer global
+01:45:43	[Tutor] Damian Tuppo:	Es una opcion
+01:45:57	Nicolas Ferro:	sisi
+01:45:57	nicolas campeis:	si
+01:45:59	Ignacio Casco:	sisi
+01:46:00	[Tutor] Damian Tuppo:	Bastante practica a veces. Pero no genera los json
+01:46:14	Gonzalo Ramos Gaspar:	Adentro de gitignore va /none_modules nomas? 
+01:46:15	Facundo Viviani Ballini:	si
+01:46:21	Fernando Aguirre:	soy muy ansioso
+01:46:29	Fernando Aguirre:	lo complicado es esto o aplicarlo? je
+01:46:44	Marilia Condor:	no por que me sale un error
+01:46:50	[Tutor] Damian Tuppo:	Esto muchas veces es mas complicado que aplicarlo
+01:46:50	Emanuel Palacio:	todo esta dentro la carpeta scss? porque a mi me lo creo afuera
+01:47:20	Emanuel Palacio:	ah listo me quedo igual entonces
+01:47:31	Gonzalo Ramos Gaspar:	Tengo puesto el git ignore todo igual pero se agrego igual el node modules al git hub
+01:47:47	[Tutor] Damian Tuppo:	lo empezaste con .?
+01:47:55	Gonzalo Ramos Gaspar:	si .gitignore
+01:47:59	[Tutor] Damian Tuppo:	Tiene alguna extensión?
+01:48:15	[Tutor] Damian Tuppo:	A veces win te manda el .txt
+01:48:46	[Tutor] Damian Tuppo:	Está en el root del proyecto?
+01:48:59	[Tutor] Damian Tuppo:	Son errores comunes que se me van ocurriendo
+01:49:32	nicolas campeis:	no aparece en el repo profe
+01:49:42	nicolas campeis:	no aparece ese paso
+01:49:55	[ Profesor ] Jonathan Cruz:	https://github.com/JonathanEmanuel/dw-c24510/tree/master/clase_13
+01:51:33	[ Profesor ] Jonathan Cruz:	npm run watch-css
+01:51:44	Nicolas Ferro:	como desconecto el debugger?
+01:51:45	[Tutor] Damian Tuppo:	Fijense, que ese "watch-css" está en las dos líneas que pusieron en el JSON
+01:51:46	Ignacio Oreiro:	crashh
+01:52:00	Facundo Viviani Ballini:	si
+01:52:01	Ignacio Davicino:	si
+01:52:04	[Tutor] Damian Tuppo:	El backup importante aca
+01:52:14	[Tutor] Damian Tuppo:	porque puede que les borre todo el css
+01:52:24	[Tutor] Damian Tuppo:	Guando guarden el scss
+01:52:25	Nicolas marquez:	porahora voy bien
+01:52:32	Nicolas Ferro:	"Waiting for the debugger to disconnect…"
+01:52:35	Gonzalo Ramos Gaspar:	npm run watch-css 
+01:52:40	Gonzalo Ramos Gaspar:	eso habria que poner en la rterminal 
+01:52:42	Gonzalo Ramos Gaspar:	??
+01:52:50	[Tutor] Damian Tuppo:	Si Gonza!
+01:53:03	(Tutora DW) Carolina Amoia:	si gonza eso cada vez q abras el proyecto
+01:53:11	Ignacio Oreiro:	Hola mande el error que me tiro en slack
+01:53:13	(Tutora DW) Carolina Amoia:	porq sino no vas a ver los cambios q hagas
+01:53:29	(Tutora DW) Carolina Amoia:	importante hacer correr el scss cada vez q abran el vsc
+01:53:35	(Tutora DW) Carolina Amoia:	con ese comando de watch
+01:53:42	Lucas Cejas:	buenísimo.
+01:53:51	[tutora]Veronica Bravo:	nacho fíjate si tenes creados las carpetas y archivos según el comando que colocaste
+01:54:18	Ignacio Oreiro:	Si si estaba todo perfecto hasta ese comando
+01:54:35	[tutora]Veronica Bravo:	scss/style.scss css/main.css o como lo hayas definido
+01:54:50	Ignacio Casco:	me salio
+01:54:51	Ignacio Casco:	como una barra
+01:54:53	Ignacio Casco:	de reproduccion
+01:54:58	Gonzalo Ramos Gaspar:	y si escribimos con clases tambien ? 
+01:55:02	Matias Mamani:	scss también funciona con etiquetas?¿
+01:55:07	Lucas Cejas:	si
+01:55:08	Facundo Viviani Ballini:	si
+01:55:10	Ayelen Juarez:	brillante
+01:55:11	Marilia Condor:	si
+01:55:13	Juan Minich:	masomenos
+01:55:21	Cata Olivar:	pero para q me sirve tener dos codigos??
+01:55:33	Juan Minich:	osea le pongo medio fruta y me lo traduce a css?
+01:55:39	Jaime Gaete:	entonces en los HTML hay que referenciar el main.css?
+01:55:39	Manuel Betanzos:	Entonces tendremos que cambiar el link a main.css?
+01:56:13	Marilia Condor:	style.scss el archivo lo tenemos que crear?
+01:56:33	Facundo Casez:	sip
+01:56:37	Ignacio Davicino:	Me sale error cuando guardo algo en el style.scss
+01:56:55	Matias Mamani:	como romper una pagina con una palabra:
+01:57:01	(Tutora DW) Carolina Amoia:	jajaja
+01:57:03	Cata Olivar:	jajaja no
+01:57:14	[Tutor] Damian Tuppo:	Mira el slack Igna!
+01:57:26	Matias Mamani:	esa coma es asesina
+01:58:03	[Tutor] Damian Tuppo:	Perdon era otro Ignacio
+01:58:59	[tutora]Veronica Bravo:	Vuelvo a recomendar que hagan backup, ya que una vez que compilan le van a borrar todo su css o pueden empezar a probar en otro proyecto
+02:00:40	Nicolas Ferro:	falto el header title
+02:00:42	Irving Salgado:	Agiliza... el código...!!!
+02:00:53	Manuel Betanzos:	Cada vez que se cierra se tiene que volver a ejecutar el Watch?
+02:01:00	Manuel Betanzos:	Que se cierra VSC
+02:01:03	(Tutora DW) Carolina Amoia:	si manuel
+02:01:22	Manuel Betanzos:	Con razón, cerrè sin querer y ya no me jalaba jaja
+02:01:24	Manuel Betanzos:	Gracias
+02:01:36	(Tutora DW) Carolina Amoia:	si nos hace dar sustos eso
+02:01:39	(Tutora DW) Carolina Amoia:	hay q acostumbrarse
+02:02:00	[tutora]Veronica Bravo:	si son vagos como yo para escribir pueden usar la flechita para arriba cuando abren la terminal y le va pasando los comandos que ya escribieron
+02:02:17	Lucas Cejas:	bien bien
+02:02:31	Nicolas marquez:	bien
+02:02:37	Fernando Aguirre:	por el momento seria reescribir el css en sintaxis sass
+02:02:41	Manuel Betanzos:	Puedes compartir de nuevo el código para watch
+02:02:43	Manuel Betanzos:	?
+02:02:48	Manuel Betanzos:	Se me cerro
+02:03:09	Manuel Betanzos:	Si se me cerro vsc
+02:03:10	Manuel Betanzos:	Jaja
+02:03:18	Lucas Cejas:	en todo caso, si tenemos que hacer un css nuevo, nos convendría hacer con scss?
+02:03:25	Rossi Mariano:	Creo que bien, lo respondería más cuando este creando el ejercicio para el desafio que viene jajaja
+02:03:58	[ Profesor ] Jonathan Cruz:	npm run watch-css
+02:04:01	Manuel Betanzos:	Gracias
+02:04:15	(Tutora DW) Carolina Amoia:	lucas si hacen algo nuevo si capaz es mejor hacerlo ya en scss
+02:04:16	César Aular:	break jajaja
+02:04:26	Juan Minich:	break
+02:04:32	Lucas Cejas:	buenisimo
+02:08:23	[Tutor] Damian Tuppo:	jaajaja no me esperaba eso
+02:09:05	[Coordinador] Lucas Esterch:	jajajajaja sorpresas del aleatorio
+02:09:10	[Tutor] Damian Tuppo:	jajajajaa
+02:09:42	[Tutor] Damian Tuppo:	Estoy algo desactualizado respecto a la música moderna
+02:10:09	[Tutor] Damian Tuppo:	En el estudio es todo Rock
+02:10:18	[Coordinador] Lucas Esterch:	Esta es conocida creo jaja
+02:10:23	Rossi Mariano:	O.o
+02:10:26	[Tutor] Damian Tuppo:	Esta si!!!
+02:10:31	[Tutor] Damian Tuppo:	De mi epoca
+02:10:36	[Tutor] Damian Tuppo:	Pero dice pis
+02:10:44	[Tutor] Damian Tuppo:	No bis..
+02:10:48	nicolas campeis:	dice bis xD
+02:10:50	nicolas campeis:	jajaja
+02:11:29	nicolas campeis:	XD
+02:11:47	nicolas campeis:	esto es de los 90 ? o antes?
+02:11:49	[Tutor] Damian Tuppo:	Mira vos
+02:11:57	[Coordinador] Lucas Esterch:	90 furiosos
+02:11:59	[Tutor] Damian Tuppo:	lo estoy googleando ejhhh
+02:12:06	[Coordinador] Lucas Esterch:	Cuando victoria aun no era beckam
+02:12:08	[Tutor] Damian Tuppo:	Yo siempre escuche "pis!"
+02:12:09	[Tutor] Damian Tuppo:	jajajaasjdj
+02:12:11	nicolas campeis:	no estaba seguro 97
+02:12:12	nicolas campeis:	xD
+02:12:15	[Coordinador] Lucas Esterch:	Es pis, sin lugar a dudas
+02:12:22	[Tutor] Damian Tuppo:	ahhh oka
+02:12:24	Gonzalo Ramos Gaspar:	Es jueves mandale musica manija
+02:12:37	Gonzalo Ramos Gaspar:	que estamos a nada del viernesabadomingolunemartes 
+02:12:40	Ignacio Davicino:	Una pregunta en un proyecto se puede tener todo en el css de sass o se puede tener uno sin el? Por ej; para aplicarle algo al body también lo hago en sass?
+02:12:40	Gonzalo Ramos Gaspar:	de carnaval 
+02:13:00	Rossi Mariano:	Ojo se le abrió el mic a alguien ajaj
+02:13:16	Emanuel Palacio:	y hablando de comida eso no se hace a esta hora
+02:13:48	Rossi Mariano:	Mandame dos de pollo.. tres de carne.. una más de pollo y 4 más de carne
+02:13:48	Rossi Mariano:	jaja
+02:13:53	Nicolas Fediuk:	un video de dalto parece
+02:13:55	Nicolas Fediuk:	jajajja
+02:14:04	Santiago Diez:	el martes tenemos clases ??
+02:14:07	[Tutor] Damian Tuppo:	Jajaja
+02:14:16	Juan Gonzalez Lagos:	con las cripto a full esta
+02:14:19	(Tutora DW) Carolina Amoia:	no santi no tenemos
+02:14:23	Rossi Mariano:	el martes es feriado, por eso mandaron el mail
+02:14:34	Nicolas Fediuk:	salud
+02:14:35	[Coordinador] Lucas Esterch:	Salud
+02:14:37	Felipe Basualdo:	salud
+02:14:38	Juan Gonzalez Lagos:	ahora se resfrio
+02:14:38	Rossi Mariano:	uhh covid
+02:14:38	[Tutor] Damian Tuppo:	El martes creo que no
+02:14:39	Ayelen Juarez:	JAJAJAJAJA
+02:14:39	Rossi Mariano:	ajaja
+02:14:39	Luis Cardozo:	salud
+02:14:40	Braian Cuñer:	salud
+02:14:41	Ignacio Davicino:	salud dinero y amor
+02:14:41	[Coordinador] Lucas Esterch:	A hisoparse eh
+02:14:44	Gonzalo Ramos Gaspar:	JJAJJAJAJJ
+02:14:46	Felipe Basualdo:	Jesus
+02:14:46	[Tutor] Damian Tuppo:	Es el feriado fuerte
+02:14:54	[Tutor] Damian Tuppo:	el lunes hay el martes no
+02:14:57	[TUTORA] Julieta Romano:	No hay clases
+02:14:59	[Coordinador] Lucas Esterch:	Guille, llamamos a la prepaga?
+02:15:12	[Tutor] Damian Tuppo:	911
+02:15:29	[Coordinador] Lucas Esterch:	Es una interferencia de radio de Rusia
+02:15:33	[Tutor] Damian Tuppo:	Si tenes fuerzas pasanos la dire
+02:15:46	Ayelen Juarez:	🕺💃
+02:16:36	Rossi Mariano:	Que alguien le avise del mic
+02:16:39	Gonzalo Ramos Gaspar:	Guille muteate reeey
+02:16:41	Emanuel Palacio:	esta bueno el dalto
+02:16:53	[Tutor] Damian Tuppo:	Tenganlo en cuenta a Dalto
+02:17:12	[Tutor] Damian Tuppo:	Por lo menos déjenlo de fondo para los que van a seguir con js
+02:17:35	[Tutor] Damian Tuppo:	Tipo "aprender ingles mientras dormis" pero aplicado a js
+02:18:51	Catalina Olivar:	osea vamos a usar style.scss porque es mas prolijo y seguimos teniendo style.css para q lo tome?
+02:19:03	[Tutor] Damian Tuppo:	Exacto Cata!
+02:19:14	[Tutor] Damian Tuppo:	Siempre lo que van a tener enlazado es el css
+02:19:23	[Tutor] Damian Tuppo:	Porque los navegadores no leen css
+02:19:25	Catalina Olivar:	okey okey
+02:19:28	Emanuel Palacio:	nose si me perdi un paso pero lo transcribe solo cuando guardas?
+02:19:44	Manuel Betanzos:	Entonces en el SCSS siempre debemos poner el “;” entre hijos?
+02:20:09	[Tutor] Damian Tuppo:	Si o si tiene que haber un compilador de por medio (el nodemon) para que "traspase" el scss al css
+02:20:18	Gonzalo Ramos Gaspar:	Osea Sass serviria para acomodar el codigo 
+02:20:31	Catalina Olivar:	y el main.css para q sirve?
+02:20:34	Gonzalo Ramos Gaspar:	? 
+02:20:34	[Tutor] Damian Tuppo:	Entre otras cosas si, gonza
+02:20:37	Gonzalo Ramos Gaspar:	ok
+02:20:46	[TUTORA] Julieta Romano:	si hay errores sass no compila
+02:20:50	[tutora]Veronica Bravo:	ahora vemos que mas podemos hacer con sass
+02:20:53	Angel Zacarias:	si sirve para reducir su cantidad de linia ordenarlo, particionarlo
+02:20:56	[TUTORA] Julieta Romano:	Asi que mucho cuidado con los cierres, los ;
+02:21:03	[TUTORA] Julieta Romano:	Y errores de escritura
+02:21:16	[Tutor] Damian Tuppo:	El main.css (o con el nombre que le quieras poner) va a ser tu css que enlazas en el html como veníamos haciendo
+02:21:26	Catalina Olivar:	ahhh okey
+02:21:31	(Tutora DW) Carolina Amoia:	que bueno un sitio de batimoviles, nada tenia q decirlo
+02:21:31	Catalina Olivar:	graciass
+02:22:07	[Tutor] Damian Tuppo:	❤
+02:22:21	Emanuel Palacio:	entonces una vez que terminemos de pasar lo que hicimos en originalmente en css lo podemos borrar después de pasarlo scss?
+02:22:27	Fernando Aguirre:	la lógica es escribir en sass, el node lo transcribe a css y la pagina lee ese css
+02:22:53	Maria Celeste Tapia:	o sea no sirve mas el styles.css despues de scss
+02:23:19	[tutora]Veronica Bravo:	Lo que se escribe en css es lo que pusimos en scss, si no lo pusimos en el archivo scss no aparecerá en css (suena a embrollo lo se)
+02:23:19	[Tutor] Damian Tuppo:	Mmmmm no se emma. Creo que tal vez te convenga pasarte a scss lo antes posible y después trabajar siempre con los scss
+02:23:29	Nicolas Ferro:	;
+02:23:33	[Tutor] Damian Tuppo:	EL css no se toca mas despues
+02:23:57	César Aular:	usas mucho el sass en el ámbito laboral?
+02:24:01	[Tutor] Damian Tuppo:	QUeda ahí, solamente para ser compilado desde los archivos que van a usar de sass
+02:24:04	(Tutora DW) Carolina Amoia:	cuando su compilador de scss aparece en verde respiran, rojo no, dolor de cabeza
+02:24:08	Emanuel Palacio:	por eso pero me referia al css original no al creado por el node, el original lo podemos borrar?
+02:24:09	[Tutor] Damian Tuppo:	y enlazado en el html
+02:24:38	[Tutor] Damian Tuppo:	El que tenias antes, digamos el original?
+02:24:39	[tutora]Veronica Bravo:	node no crea un css, vos creas tu css y tu scss, como sus carpetas
+02:24:44	[Tutor] Damian Tuppo:	Va a mutar a sass
+02:24:52	Gonzalo Ramos Gaspar:	y hacer esto para que nos serviria ? 
+02:24:54	[Tutor] Damian Tuppo:	Lo vas a tener en el/los scss
+02:25:13	[Tutor] Damian Tuppo:	Y el css que genera Sass no lo tendrías que tocar mas
+02:25:48	Juan Minich:	pero como lo acomoda ?? porque se ponen los import todos al principio
+02:25:57	Fernando Aguirre:	acaso podría copiar estilos ya hechos y linkearlos? muajaja
+02:26:00	Gonzalo Ramos Gaspar:	osea si vas a otro proyecto diferente al poner @import "_header" vas a tener ese? 
+02:26:11	[Tutor] Damian Tuppo:	Los acomoda en el orden en el que los importan
+02:26:28	[tutora]Veronica Bravo:	el orden en el que coloques los imports es como esos bloques de código aparecerán en el css
+02:26:38	[Tutor] Damian Tuppo:	Tenganlo en cuenta eso
+02:26:50	[Tutor] Damian Tuppo:	Sobre todo para las variables
+02:26:54	[Tutor] Damian Tuppo:	Y las media queries
+02:27:01	Juan Minich:	pero hay otras líneas dentro del style.scss
+02:27:22	Juan Minich:	osea como sabe que va al final del todo? nada mas porque es footer de clase?
+02:27:45	Juan Minich:	el footer sale al final de la pagina, perom esta escrito antes de la card}
+02:27:54	Juan Minich:	no entiendo como sabe el orden
+02:28:12	Lucas Cejas:	quizás toma la referencia del html
+02:28:14	Catalina Olivar:	se pone botón de reseteo en scss?
+02:28:15	Lucas Cejas:	porque es clase.
+02:28:26	Catalina Olivar:	osea se pone igual q en css
+02:28:28	Facundo Viviani Ballini:	si
+02:28:32	Brayan David Diaz Tabares:	si
+02:28:38	Irving Salgado:	Modularizarrr...
+02:28:38	[Tutor] Damian Tuppo:	no Juan, el compilador no sabe el orden. Tendrías que ubicar vos, los import para que se ordenen en el orden que necesitas
+02:28:39	Lucas Cejas:	sip
+02:28:43	Irving Salgado:	ese es el tema...!
+02:28:50	Marilia Condor:	si se va aclarando el tema
+02:28:55	[Tutor] Damian Tuppo:	Porque el import que pongas primero, se va a compilar primero
+02:28:57	[Tutor] Damian Tuppo:	y asi
+02:29:04	[TUTORA] Julieta Romano:	El compilador va a compilar el código de acuerdo a como vayas ubicando los import
+02:29:13	[TUTORA] Julieta Romano:	Y se hace el reste también en scss
+02:29:23	[TUTORA] Julieta Romano:	Padding:0 margin:0 etc..
+02:29:33	[TUTORA] Julieta Romano:	*reset
+02:29:36	Fernando Aguirre:	tipo el if de Excel?
+02:29:49	[Tutor] Damian Tuppo:	El reset siempre primero, por ejemplo
+02:29:59	[Tutor] Damian Tuppo:	para que no les pise todo despues
+02:32:10	Fernando Aguirre:	me viene bien porque tengo colores especificos
+02:32:17	Fernando Aguirre:	tomados de una imagen de referencia}
+02:33:03	[tutora]Veronica Bravo:	pueden con las variables tener su paleta de colores en un solo lugar por ej
+02:33:13	Gonzalo Ramos Gaspar:	claro despues solo cambias el codigo del color en la variable
+02:33:16	Gonzalo Ramos Gaspar:	y se cambia en todo 
+02:33:24	Gonzalo Ramos Gaspar:	Seria como una "clase" 
+02:33:24	Fernando Aguirre:	la variable la tengo que poner en cada archivo de sass que lo vaya a utilizar?
+02:33:25	(Tutora DW) Carolina Amoia:	claro gonza
+02:33:37	(Tutora DW) Carolina Amoia:	y en la variable pueden también guardar la tipografia
+02:33:37	César Aular:	esta muy bueno eso, super útil
+02:34:06	[tutora]Veronica Bravo:	podes crear un partial de variables con los colores
+02:34:07	Gonzalo Ramos Gaspar:	claro 
+02:34:11	Gonzalo Ramos Gaspar:	algo que vas a repetir 
+02:34:39	(Tutora DW) Carolina Amoia:	recuerden a las variables el nombre se lo ponen ud, asi q es una forma de ud ordenarse y de verlo ordenado para alguien q trabaja con ud y ve su codigo
+02:35:01	Fernando Aguirre:	si es global entonces la tendría que poner el scss style no?
+02:35:22	Gonzalo Ramos Gaspar:	y la variable se puede usar en _header pro ejemplo ?¿ 
+02:36:21	Gonzalo Ramos Gaspar:	blaco
+02:36:46	Angel Zacarias:	podes modulizar las variables eh importarlas donde las quieras usar tal como _hedaer   pero _varibles
+02:37:49	Gonzalo Ramos Gaspar:	y la variable se puede usar en _header por ejemplo las que ponemos arriba de todo ?
+02:37:55	Rossi Mariano:	es como un private y un public
+02:38:12	Gonzalo Ramos Gaspar:	o solo dentro del archivo en el que esta
+02:38:18	Ignacio Davicino:	profe como se asignaría un color gradient a una variable
+02:38:35	Lucas Cejas:	sisi
+02:38:55	[Tutor] Damian Tuppo:	Yo haría un archivo de variables (un partial con todas las variables que tengan. Bien nombradas. Para que se entienda donde están aplicadas
+02:39:05	[Tutor] Damian Tuppo:	Y las importaría al principio
+02:39:30	Lucas Cejas:	claro como importa los scss en el main.scss no?
+02:39:31	[Tutor] Damian Tuppo:	Para asegurarse de no usar ninguna variable que no esté definida
+02:39:33	[tutora]Veronica Bravo:	👆🏼 totalmente!
+02:39:37	Maria Celeste Tapia:	profe utiliza alguna extencion para los colores de codigo sass
+02:39:46	Maria Celeste Tapia:	extension
+02:40:07	[tutora]Veronica Bravo:	los colores son los mismos que venimos trabajando
+02:40:34	Lucas Cejas:	si
+02:40:36	Catalina Olivar:	si
+02:41:03	Maria Celeste Tapia:	los colores de las llaves y el codigo, no me hago entender jaja
+02:41:06	Gonzalo Ramos Gaspar:	a ver el desafio 
+02:41:16	Juan Minich:	osea tenemos 2 entregas la semana que viene?
+02:41:19	Gonzalo Ramos Gaspar:	:´(
+02:41:30	Catalina Olivar:	si :((
+02:41:35	Emanuel Palacio:	una pregunta cuando tenes un hover por ejemplo , en sass iria dentro de la clase original o al mismo nivel?
+02:41:37	Luis Cardozo:	creo que se refiere al theme que tiene en el VSC
+02:41:55	Lucia La torre:	Chicos ya les dieron la asistencia? A mi se me cayo la Pag y volví a entrar
+02:42:00	Maria Celeste Tapia:	claroo eso
+02:42:21	[tutora]Veronica Bravo:	pregunta a tu tuto Lucia
+02:42:31	[ Profesor ] Jonathan Cruz:	Bracket Pair Colorizer
+02:42:34	Maria Celeste Tapia:	genial muchas gracias
+02:42:48	Maria Celeste Tapia:	si me parecia qe se veia mucho mejor su codigo
+02:43:02	[tutora]Veronica Bravo:	Esta bueno esa ayuda de colores, después lo van a seguir usando en js
+02:43:05	Gonzalo Ramos Gaspar:	y el hover por ejemplo
+02:43:07	Gonzalo Ramos Gaspar:	donde se pondria 
+02:43:11	Ignacio Davicino:	Como se importaba?
+02:43:47	Manuel Betanzos:	Cuando se sube a github, todo la carpeta scss se ignora?
+02:43:50	[ Profesor ] Jonathan Cruz:	Ctrol + c
+02:43:58	[ Profesor ] Jonathan Cruz:	ctrl + c
+02:44:08	(Tutora DW) Carolina Amoia:	Manuel se ignora el package json
+02:44:10	Lucia La torre:	Gracias!!
+02:45:11	[ Profesor ] Jonathan Cruz:	https://github.com/JonathanEmanuel/dw-c24510.git
+02:46:41	[ Profesor ] Jonathan Cruz:	npm install
+02:48:23	Emanuel Palacio:	entonces la ultima pregunta seria la pseudo clases van anidadas dentro del la clase original o van al mismo nivel?
+02:49:27	[Tutor] Damian Tuppo:	& es el que esta arriba del 6
+02:50:23	César Aular:	se puede aplicar al proyecto que habíamos hecho en Bootstrap ?
+02:50:47	Fernando Aguirre:	yo voy a usar el anterior, porque en el de Bootstrap tiene poco css, no tiene mucho sentido
+02:50:48	Emanuel Palacio:	bueno tengo para entrenerme el fin de semana con las 400 líneas de css
+02:50:49	[Tutor] Damian Tuppo:	Se puede, porque lo aplicarías en Tu css (el propio)
+02:51:06	[Tutor] Damian Tuppo:	El css de Bootstrap yo no lo tocaría
+02:51:27	[Tutor] Damian Tuppo:	Aprovechen las clases de Bootstrap que les sean útiles
+02:51:42	Marco Allegri:	Me conviene hacer un backup de mi entrega final y practicar SASS en una copia no?
+02:51:42	[Tutor] Damian Tuppo:	Pero el resto haganló con el css propio
+02:51:51	Gonzalo Ramos Gaspar:	profe una duda 
+02:51:53	[Tutor] Damian Tuppo:	Es una opción Marco
+02:52:10	(Tutora DW) Carolina Amoia:	recuerden hacer una copia de su proyecto para q no se rompa todo y quieran tirar la computadora por la ventana
+02:52:13	Gonzalo Ramos Gaspar:	Despues de que termine me podria decir como eliminar el node modules del repositorio de git hub? 
+02:52:18	[Tutor] Damian Tuppo:	Pero también te podes lanzar a sassificar el proyacto
+02:52:28	Ignacio Davicino:	una duda yo copie la carpeta de otro proyecto para aplicarle el sass, lo hice pero ahora estoy teniendo problemas para subirlo a la página, se puede cambiar de repo, asi lo subo en otro?
+02:52:30	[Tutor] Damian Tuppo:	Si quieren el after lo orientamos por ahi
+02:52:46	nicolas campeis:	si
+02:52:56	nicolas campeis:	pero no voy a estar en el after trabajo =(
+02:53:06	[Tutor] Damian Tuppo:	O sea como aplicar Sass a cosas que ya teníamos hechas con css normalito
+02:53:19	nicolas campeis:	todo suma
+02:53:25	Fernando Aguirre:	cuando el profe dice arroba, significa cualquier símbolo existente (?
+02:53:28	Gonzalo Ramos Gaspar:	me podria decir como eliminar el node modules del repositorio de git hub? 
+02:53:45	Nicolas marquez:	si ae entiende
+02:53:56	César Aular:	se puede aplicar sass a cualquiera de los proyectos no ?
+02:54:03	[Tutor] Damian Tuppo:	jajajajaa que malo Fer. Esos simbolos son un trabalenguas
+02:54:19	[tutora]Veronica Bravo:	no cuesta nada hacer un backup, y puede ahorrar dolores de cabeza
+02:54:20	Manuel Betanzos:	Conviene anidar por pàginas?
+02:54:20	Fernando Aguirre:	jajaj mas fácil decir arroba, se entiende (? jaja}
+02:54:32	Emanuel Palacio:	pregunta, la segunda entrega de proyecto la podemos mandar ya con el sass? o para esa entrega no lo hacemos?
+02:54:36	[Tutor] Damian Tuppo:	Borrala a mano, sin miedo
+02:54:42	nicolas campeis:	jajaja dolor de cabeza XD
+02:54:46	[Tutor] Damian Tuppo:	Después hace el gitignore
+02:55:07	(Tutora DW) Carolina Amoia:	ojo cuando suben si las entregas q después hagan el push al repositorio q corresponde
+02:55:10	[Tutor] Damian Tuppo:	Y después npm install
+02:55:12	Valeria Flores:	a que hora es el after?
+02:55:19	[tutora]Veronica Bravo:	Ema como siempre ustedes pueden enviar temas mas avanzados pero la corrección se rige siempre por lo que indican las rubricas
+02:55:23	[Tutor] Damian Tuppo:	Mañana lo doy yo si!!!
+02:55:25	Matias Mamani:	tengo el deber urgente de preparar palomitas y repasar como 70 clases
+02:55:36	[Tutor] Damian Tuppo:	A las 6 o 7, que prefieren?
+02:55:49	Gonzalo Ramos Gaspar:	7
+02:55:50	Luis Cardozo:	7pm
+02:56:00	Rossi Mariano:	7
+02:56:12	Jaime Gaete:	Mi proyecto es full Bootstrap, ¿tengo que aplicarle saas?
+02:56:15	[Tutor] Damian Tuppo:	7 pm! Ahora después de la clase lo creo!
+02:56:36	[Tutor] Damian Tuppo:	Jaime tendrías que personalizar cosas con css propio
+02:56:43	[Tutor] Damian Tuppo:	Ahí podes meter sass
+02:56:49	Gonzalo Ramos Gaspar:	npm install nos crea el node 
+02:57:12	[Tutor] Damian Tuppo:	EL node lo tenes que tener si o si
+02:57:18	(Tutora DW) Carolina Amoia:	Jaime tendrías q crear o estilizar cosas nuevas y sobre eso hacer sass
+02:57:26	Jaime Gaete:	OK se entiende
+02:57:31	[Tutor] Damian Tuppo:	EL tema con el git ignore, es que no te lo suba a github
+02:57:37	Rossi Mariano:	no tomaron asistencia hoy, no?
+02:57:46	Ignacio Davicino:	error: remote origin already exists.
+02:57:53	Catalina Olivar:	osea habría q pasar de una pagina todo nuestro css a scss???
+02:58:03	Rossi Mariano:	ahí vi el chat bots jaja
+02:58:11	[Tutor] Damian Tuppo:	No necesariamente Cata
+02:58:25	[Tutor] Damian Tuppo:	El desafío en si es hacer al menos una página con sass
+02:58:25	Matias Mamani:	como se actualizaba el repositorio de GitHub?
+02:58:39	[Tutor] Damian Tuppo:	Pero si quieren migrar desde ahora, no está mal
+02:58:40	Matias Mamani:	no recuerdo el comando
+02:58:47	Catalina Olivar:	osea podría hacer nav y main ?
+02:59:07	Ignacio Casco:	mañana el after a q hora?
+02:59:14	Catalina Olivar:	ah okey key
+02:59:16	[Tutor] Damian Tuppo:	git push -u origin rama
+02:59:17	Rossi Mariano:	7
+02:59:20	[Tutor] Damian Tuppo:	6 o 7
+02:59:21	Rossi Mariano:	no lo cambien jaja
+02:59:23	Nicolas Ferro:	7
+02:59:24	(Tutora DW) Carolina Amoia:	si si solo lo aplicas a alguna parte no esta de mas avisar a donde lo aplicaste
+02:59:32	[Tutor] Damian Tuppo:	creo que a boca de urna viene ganando el 7
+02:59:43	Nicolas Ferro:	el after es de esto?
+02:59:50	[tutora]Veronica Bravo:	carnaval!!!
+03:00:02	Rossi Mariano:	carna que?, entregas se dice
+03:00:03	Rossi Mariano:	jaja
+03:00:17	[Tutor] Damian Tuppo:	Hacemos una hora de esto. Y media hora not sponsor de lo que quieran
+03:00:28	Nicolas Ferro:	dale genial
+03:00:47	[tutora]Veronica Bravo:	Que genio Dami!!
+03:00:52	[Coordinador] Lucas Esterch:	Que tengan un buen finde largo!!!
+03:00:53	[Tutor] Damian Tuppo:	La idea sería "sassificar" el proyecto que tienen
+03:00:56	Daniel Duarte:	La vida es un carnaval...
+03:00:59	Ignacio Davicino:	Gracias profe
+03:01:03	sofia tamara gordillo saenz:	Gracias profe
+03:01:07	Lucas Cejas:	buenísimo!! buen fin de semana!!!
+03:01:08	Facundo Viviani Ballini:	chau !! gracias
+03:01:09	(Tutora DW) Carolina Amoia:	aprovechen para descansar y ponerse al dia
+03:01:09	nicolas campeis:	nos vemos !
+03:01:10	Catalina Olivar:	gracias, chauuu
+03:01:10	Agustina María Muñoz:	Gracias! buenas noches
+03:01:10	nicolas campeis:	gracias
+03:01:11	Nicolas Ferro:	chauuuu
+03:01:12	Facundo Viviani Ballini:	buen finde
+03:01:13	Rossi Mariano:	gracias!, buen finde
+03:01:14	Emanuel Palacio:	nos vemos
+03:01:16	Ignacio Oreiro:	chauchaa
+03:01:17	(Tutora DW) Carolina Amoia:	buen finde!!!
+03:01:21	[tutora]Veronica Bravo:	Nos vemos en una semana, la seguimos por slack los que necesiten!
+03:01:27	[Tutor] Damian Tuppo:	Buenas noches a todxs!
+03:01:28	Marilia Condor:	Super Gracias Profesor
+03:01:33	[TUTORA] Julieta Romano:	saludos
+03:01:35	[Tutor] Damian Tuppo:	Los espero mañana!
