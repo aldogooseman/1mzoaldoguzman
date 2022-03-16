@@ -1,40 +1,20 @@
-*{
+ *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
-
+@import "footer";
+@import "generales";
+@import "nav";
+@import "variables";
+@import "social";
 body {
     font-family: 'Questrial', sans-serif;
 }
 
-.navbar {
-    height: 80px;
-    width: 100%;
-    display:flex;
 
-
-   .nav__logo {
-    height: 11%;
-    width: 11%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-   .navbar-nav {
-    font-size: 14px;
-    display:flex;
-    align-items: center;
-    justify-content: center;
-  }
-   .navbar__item{
-    display: flex;
-    justify-content: right;
-  }
-
-}
 
 .carousel-inner {
   color: #fff
@@ -55,12 +35,6 @@ body {
 
 .botoncolor:hover {
   background-color: crimson;
-}
-.footer {
-padding-left: 15px;  
-background-color: rgb(143, 143, 143);
-color: #fff
-  
 }
 
 .form {
