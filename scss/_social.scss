@@ -1,10 +1,9 @@
-$redes: ( /*Declaramos nuestro mapa*/
+
         facebook: #3b5998,
         instagram:  #C25E30,
         linkedin: #0e76a8,
 ); 
-/*Creamos el bucle para usar los valores del mapa*/
-.iconsocial{
+
     display: flex;
     align-items: fill;
     

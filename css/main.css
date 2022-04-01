@@ -59,7 +59,6 @@
     display: flex;
     justify-content: right; }
 
-/*Creamos el bucle para usar los valores del mapa*/
 .iconsocial, .btn--facebook, .btn--instagram, .btn--linkedin {
   display: flex;
   align-items: fill; }
@@ -98,3 +97,164 @@ body {
 
 .form {
   display: flex; }
+
+  
+body{margin-top:20px;}
+
+.jumbotron.jumbotron-main { 
+    height: 100%;
+	width: 100%;
+	font-family: 'Roboto', sans-serif;
+	color: #fff;
+	padding-top: 0;
+	padding-bottom: 0;
+	position: relative;
+	margin:0;
+}
+
+#particles-js {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	background-image: url("");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 50% 50%;
+	background: #6819e8; 
+	background: -moz-linear-gradient(left, #6819e8 0%, #7437d0 35%, #615fde 68%, #6980f2 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(left, #6819e8 0%,#7437d0 35%,#615fde 68%,#6980f2 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to right, #6819e8 0%,#7437d0 35%,#615fde 68%,#6980f2 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6819e8', endColorstr='#6980f2',GradientType=1 ); /* IE6-9 */
+}
+
+.jumbotron.jumbotron-main hr {
+	border-width: 1px 0px;
+    border-style: dotted none;
+    border-color: rgba(255, 255, 255, 0.35);
+    -moz-border-top-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    border-image: none;
+    width: 49px;
+    height: 4px;
+    text-align: center;
+    position: relative;
+    clear: both;
+}
+
+.jumbotron.jumbotron-main a {
+    color: #fff;
+}
+
+.center-vertically {
+    display: table-cell;
+    vertical-align: middle;
+    height: 100%;
+}
+
+.center-vertically-holder { 
+	display: table;
+	height: 100%;
+}
+
+.scroll-indicator {
+	padding-top:6px;
+    display: inline-block;
+    width: 50px;
+}
+
+.arrow-scroll-indicator {
+	font-size: 10px;
+	color: rgba(255, 255, 255, 0.60);
+}
+
+.containera {
+  width: 100%;
+  min-height:  100vh;
+  background-color: #ffffff
+
+}
+
+.containera h2 {
+  color: #1f283b;
+  font-size: 32px;
+  padding: 50 px 0 ;
+  text-align: center;
+}
+
+.price-row {
+  width: 90%;
+  max-width: 1100px;
+  margin: auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  grid-gap: 25px;
+
+}
+
+.price-col {
+  background: #1f283b;
+  padding: 10% 15%;
+  border-radius: 10px;
+  color: #fff;
+  text-align: center;
+  
+}
+
+.price-col p {
+  font-size: 22px;
+
+}
+
+.price-col h3 {
+  font-size: 44px;
+  margin: 20px 0 40px;
+  font-weight: 500;
+  
+}
+
+.price-col h3 span {
+  font-size: 16px;
+  
+}
+
+.price-col ul {
+  text-align: left;
+  margin: 20px 0;
+  color: #ddd;
+  list-style: none;
+
+}
+
+.price-col ul li {
+  margin: 15px o;
+  
+}
+
+.price-col ul li::before{
+  content: "*";
+  color: #e33058;
+  font-weight: bolder;
+  margin-right: 8px;
+
+
+}
+
+.price-col button {
+  width: 100%;
+  padding:14px 0;
+  background: transparent;
+  color:#fff;
+  font-size: 15px;
+  border: 1px solid #e33058;
+  border-radius: 6px;
+  margin-top: 30px;
+  cursor:pointer;
+  transition: background 0.5s;
+}
+
+.price-col button:hover {
+  background:#e33058 
+
+}
